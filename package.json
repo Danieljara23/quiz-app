@@ -8,8 +8,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.9.18",
     "next": "9.4.4",
     "react": "16.13.1",
     "react-dom": "16.13.1"
+  },
+  "devDependencies": {
+    "dotenv-webpack": "^1.8.0"
   }
 }
