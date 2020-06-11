@@ -8,7 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "apollo-server-micro": "^2.14.3",
     "dotenv": "^8.2.0",
+    "graphql": "^15.1.0",
+    "graphql-tools": "^6.0.9",
+    "mongodb": "^3.5.8",
     "mongoose": "^5.9.18",
     "next": "9.4.4",
     "react": "16.13.1",
